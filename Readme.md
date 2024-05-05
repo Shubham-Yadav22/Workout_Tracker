@@ -5,5 +5,4 @@ It is a workout tracking program using Sheety and NutritionX api. It will log th
 
 ## Demo
 
-file:///C:/Users/Shubham/Downloads/Gif.gif
-
+![Uploading Gif.gif…]()
