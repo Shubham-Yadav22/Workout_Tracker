@@ -1,4 +1,4 @@
-![Gif](https://github.com/Shubham-Yadav22/Workout_Tracker/assets/149295302/30dc0066-d6c6-4adf-b07f-006a02895f5f)# Workout Tracker
+# Workout Tracker
 
 It is a workout tracking program using Sheety and NutritionX api. It will log the workouts done by an individual in Google Sheets.
 
