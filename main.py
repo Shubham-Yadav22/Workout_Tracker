@@ -14,7 +14,6 @@ PASSWORD = os.environ["PASSWORD"]
 My_AUTHORIZATION_HEADER = os.environ["TOKEN"]
 
 
-
 My_Age = 19
 My_weight = 50.3
 My_gender = "male"
